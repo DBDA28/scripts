@@ -12,3 +12,4 @@ apt update && apt upgrade -y && apt install mongodb-org -y
 systemctl enable --now mongod && systemctl start monogd
 
 #curl -sSL https://raw.githubusercontent.com/aandrew-me/tgpt/main/install | bash
+#git clone github.com/pg-dbda
